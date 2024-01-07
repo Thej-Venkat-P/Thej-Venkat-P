@@ -11,16 +11,18 @@ I'm a passionate and creative student aspiring to become a software engineer, wh
 
 - I have experience in developing applications and services using various programming languages and tools, such as Java, C#, Python, Jupyter Notebooks.
 - I am also interested in game development and have worked on several projects related to games, such as Snake Game, Space Invaders, Tic-Tac-Toe with AI.
+- I have worked on many Data Science , Artficial Intelligence , Web-Scraping and Interaction Projects and have Intermediate knowledge in Python programming language
 - I enjoy learning new skills and technologies and collaborating with other developers, artists and designers.
 
 ## 🚀 Goals
 
-- My goal is to become a successful software engineer or game developer who can create innovative and immersive software or video games.
+- My goal is to become a successful Software Engineer, Game Developer, Data Scientist, or Artificial Intelligence Engineer who can create innovative and immersive software, video games, products or services that help others.
 - I am always open to new challenges and opportunities to improve my skills and learn from others.
 
 ## 📫 Contact
 
 - You can reach me through my email thej.venkat@gmail.com .
+- Check out my LinkedIn Profile at https://www.linkedin.com/in/thej-venkat-purru-9941a6255/
 - Please visit my Github page to view my Projects and Works: https://github.com/Thej-Venkat-P
 
 
